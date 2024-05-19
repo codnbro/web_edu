@@ -1,0 +1,25 @@
+.mytitle {
+    color: white;
+
+    width: 300px;
+    height: 200px;
+    text-align: center;
+
+    background-image: url("https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg");
+    background-size: cover;
+    background-position: center;
+
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.wrap {
+    width: 300px;
+    margin: auto;
+}
+
+* {
+    font-family: "Single Day", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
